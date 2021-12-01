@@ -54,3 +54,7 @@ class validar_cpf:
         else:
             print(f'\033[1;31mCPF INVÁLIDO\033[m')
             return False
+
+
+    def teste(self):
+        pass
